@@ -64,13 +64,13 @@ body{
     min-height: 568px;
 }
 .slide-1{
-    background: #b4d1e0 url('assets/img/hero/model3.png') no-repeat top right;
+    background: #b4d1e0 url('../img/hero/model3.png') no-repeat top right;
 }
 .slide-2{
-    background: #C3C3C3 url('assets/img/hero/model.png') no-repeat top 7% right;
+    background: #C3C3C3 url('../img/hero/model.png') no-repeat top 7% right;
 }
 .slide-3{
-    background: #F1C7C7 url('assets/img/hero/model4.png') no-repeat top right;
+    background: #F1C7C7 url('../img/hero/model4.png') no-repeat top right;
 }
 .label{
     padding: 5px 12px;
@@ -125,7 +125,7 @@ body{
     padding-bottom: 80px;
 }
 .card-1{
-    background: #e3e2e3 url("assets/img/banner/banner-img-1.jpg") no-repeat top right;
+    background: #e3e2e3 url("../img/banner/banner-img-1.jpg") no-repeat top right;
     background-size: cover;
 }
 .card-title{
@@ -144,7 +144,7 @@ body{
     margin-bottom: 25px;
 }
 .card-2{
-    background: #000 url("assets/img/banner/banner-img-2.jpg") no-repeat top right;
+    background: #000 url("../img/banner/banner-img-2.jpg") no-repeat top right;
     background-size: cover;
 }
 .text-light{
@@ -163,7 +163,7 @@ body{
 }
 .card-3{
     padding-top: 35px;
-    background: #CCD5E6 url("assets/img/banner/banner-img-3.png") no-repeat top right 10%;
+    background: #CCD5E6 url("../img/banner/banner-img-3.png") no-repeat top right 10%;
     background-size: contain;
 }
 .card-title.large{
@@ -183,7 +183,7 @@ body{
 .card-4{
     padding-top: 35px;
     padding-left: 25px;
-    background: #FF4F52 url("assets/img/banner/banner-img-4.png") no-repeat top right;
+    background: #FF4F52 url("../img/banner/banner-img-4.png") no-repeat top right;
     background-size: contain;
 }
 .card-price{
@@ -305,13 +305,13 @@ body{
        display: none;
     }
     .slide-1{
-        background: #b4d1e0 url('assets/img/hero/model3.png') no-repeat top left 300px;
+        background: #b4d1e0 url('../img/hero/model3.png') no-repeat top left 300px;
     }
     .slide-2{
-        background: #C3C3C3 url('assets/img/hero/model.png') no-repeat top left 300px;
+        background: #C3C3C3 url('../img/hero/model.png') no-repeat top left 300px;
     }
     .slide-3{
-        background: #F1C7C7 url('assets/img/hero/model4.png') no-repeat top left 100px;
+        background: #F1C7C7 url('../img/hero/model4.png') no-repeat top left 100px;
     }
 }
 @media (max-width: 576px){
@@ -321,13 +321,13 @@ body{
         margin-bottom: 0;
     }
     .slide-1{
-        background: #b4d1e0 url('assets/img/hero/model3.png') no-repeat top left 130px;
+        background: #b4d1e0 url('../img/hero/model3.png') no-repeat top left 130px;
     }
     .slide-2{
-        background: #C3C3C3 url('assets/img/hero/model.png') no-repeat top left 130px;
+        background: #C3C3C3 url('../img/hero/model.png') no-repeat top left 130px;
     }
     .slide-3{
-        background: #F1C7C7 url('assets/img/hero/model4.png') no-repeat top right -200px;
+        background: #F1C7C7 url('../img/hero/model4.png') no-repeat top right -200px;
     }
     .card{
         background-position: left top;
